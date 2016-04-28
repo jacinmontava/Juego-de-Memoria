@@ -7,7 +7,6 @@ let range = 0...100
 
 for num in range {
     
-    let range2 = 30...40
     var string = "# \(num)"
 
     if(num % 5 == 0) {

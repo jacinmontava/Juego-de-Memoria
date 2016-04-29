@@ -15,9 +15,7 @@ for num in range {
     
     if(num % 2 == 0) {
         string += " -- par!!!"
-    }
-    
-    if(num % 2 != 0) {
+    } else {
         string += " -- impar!!!"
     }
     
